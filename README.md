@@ -7,7 +7,7 @@ After doing that you can build any projects based on logic gates
 ![image1](ast/1.jpg)
 Dont panic bro.
 There's a simplified version too
-![1dd6602940fce0023ba14d4168e8803a.png](:/a8352a5f815447c89f246e30b595dede)
+![image2](ast/2.jpg)
 
 so we use :
 Lever as Switches 
