@@ -4,7 +4,7 @@ you can find how to make [logic gates](https://www.minecraft101.net/redstone/red
 After doing that you can build any projects based on logic gates
 
 ### And we are going to do this one:
-![fa170aec34a6b74d1961b88689663fbb.png](:/2d1910a03c904e6f8d177fab706ca80d)
+![ast/1.png](:/1)
 Dont panic bro.
 There's a simplified version too
 ![1dd6602940fce0023ba14d4168e8803a.png](:/a8352a5f815447c89f246e30b595dede)
